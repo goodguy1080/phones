@@ -11,6 +11,6 @@
 * #### 2/3 GB of RAM
 * #### Exynos 7870 Octa
 
-##### **It runs a One UI 4.1 Custom ROM (Android 12.**
+##### **It runs a One UI 4.1 Custom ROM (Android 12).**
 
 ###### **This tablet originally had Android 6.0,and was upgradable up to Android 8.1.**
