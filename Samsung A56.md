@@ -14,7 +14,7 @@
 
 #### 
 
-#### It runs on stock firmware,on One UI 8.5.
+#### It runs stock firmware,on One UI 8.5
 
 
 
