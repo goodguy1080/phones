@@ -16,7 +16,7 @@
 
 ##### 
 
-##### **It has a One UI 7 custom ROM with Magisk,soon will have One UI 8 (also custom ROM)**
+##### **It has a One UI 7 custom ROM,soon will have One UI 8 (also custom ROM)**
 
 
 
